@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaarvy Chauhan</h1>
+<img src="https://user-images.githubusercontent.com/74038190/216124356-9c152f5b-554d-400c-a2f3-84f0f0b9a627.png" alt="Face with Hand Over Mouth" width="120" />
 <h3 align="center">A passionate Blockchain and Frontend Developer From Gurugram, India 🤭</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaarvy&label=Profile%20views&color=0e75b6&style=flat" alt="shaarvy" /> </p>
