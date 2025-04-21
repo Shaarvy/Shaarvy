@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shaarvy Chauhan</h1>
-<img src="https://user-images.githubusercontent.com/74038190/216124356-9c152f5b-554d-400c-a2f3-84f0f0b9a627.png" alt="Face with Hand Over Mouth" width="120" />
-<h3 align="center">A passionate Blockchain and Frontend Developer From Gurugram, India 🤭</h3>
+<p><h1 align="left">Hi 👋, I'm Shaarvy Chauhan</h1>
+  <img  align = "right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500">
+</p>
+<h3 align="left">A passionate Blockchain and Frontend Developer From Gurugram, India </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaarvy&label=Profile%20views&color=0e75b6&style=flat" alt="shaarvy" /> </p>
 
@@ -31,3 +32,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaarvy&show_icons=true&locale=en&layout=compact" alt="shaarvy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaarvy&show_icons=true&locale=en" alt="shaarvy" /></p>
+
+<img align="left" src="https://user-images.githubusercontent.com/74038190/216124356-9c152f5b-554d-400c-a2f3-84f0f0b9a627.png" alt="Face with Hand Over Mouth" width="120" />
